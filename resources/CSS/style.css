@@ -1,0 +1,72 @@
+
+* {
+    margin: 0;
+    background-color: black;
+    font-family: Montserrat, sans-serif;
+    color: white;
+}
+
+.nav {
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    padding: 40px;
+    font-family: Montserrat, sans-serif;
+    position:fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav ul {
+    list-style: none;
+    background-color: rgb(49, 49, 49);
+}
+
+.nav li {
+    display: inline;
+    margin: 100px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(49, 49, 49);
+}
+
+.intro {
+    text-align: center;
+}
+
+#profile-pic {
+    border-radius: 50%;
+    padding: 100px;
+}
+
+.resize {
+    width: 350px;
+    height : auto;
+}
+
+.resize {
+    width: auto;
+    height : 450px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.name {
+    color: #ffffff;
+    font-size: 60px 
+}
+
+.position {
+    margin: 30px 0;
+    font-size: 30px;
+}
+
+.divider {
+    margin: 70px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
